@@ -1,7 +1,7 @@
 ## iWBWiWB    
 it Will Be What it Will Be    
 ---------------------------      
->day 1    
+>day 2    
 well...    
 Currently know some python and c. Hoping that this will become more with time and experience. Not much else.    
-Also learning git.    
+Also learning git + bash
