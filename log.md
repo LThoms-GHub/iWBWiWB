@@ -8,3 +8,12 @@ learnt some bash.
 
 >day 2
 improving typing.
+
+>day 3
+improving typing.
+
+>day 4
+improved typing.
+
+>day 5
+improving bash.
