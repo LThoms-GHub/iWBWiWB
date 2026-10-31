@@ -1,4 +1,4 @@
-### day 0    
+### day 0  
 well...    
 Currently know some python and c. Hoping that this will become more with time and experience. Not much else.    
 Also learning git.    
@@ -19,4 +19,6 @@ improved typing.
 improving bash.
 
 ### day 6
-improved layout of log.md <sub>(this file)</sub> and [README.md](https://github.com/LThoms-GHub/iWBWiWB/blob/main/README.md).
+improved layout of log.md <sub>(this file)</sub> and [README.md](https://github.com/LThoms-GHub/iWBWiWB/blob/main/README.md).\
+first [pull request](https://github.com/LThoms-GHub/iWBWiWB/pull/1) and merge of project.\
+cloned repo to my computer.
