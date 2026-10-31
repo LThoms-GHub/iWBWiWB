@@ -19,4 +19,4 @@ improved typing.
 improving bash.
 
 ### day 6
-improved layout of log.md <sub>(this file).</sub> and [README.md](https://github.com/LThoms-GHub/iWBWiWB/blob/main/README.md).
+improved layout of log.md <sub>(this file)</sub> and [README.md](https://github.com/LThoms-GHub/iWBWiWB/blob/main/README.md).
