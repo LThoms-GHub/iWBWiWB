@@ -1,24 +1,25 @@
 ### day 0  
-well...    
-Currently know some python and c. Hoping that this will become more with time and experience. Not much else.    
+Well...    
+Currently know some python and C. Hoping that this will become more with time and experience. Not much else.    
 Also learning git.    
 
 ### day 1
-learnt some bash.    
+Learnt some bash.    
 
 ### day 2
-improving typing.
+Improving typing.
 
 ### day 3
-improving typing.
+Improving typing.
 
 ### day 4
-improved typing.
+Improved typing.
 
 ### day 5
-improving bash.
+Improving bash.
 
 ### day 6
-improved layout of log.md <sub>(this file)</sub> and [README.md](https://github.com/LThoms-GHub/iWBWiWB/blob/main/README.md).\
-first [pull request](https://github.com/LThoms-GHub/iWBWiWB/pull/1) and merge of project.\
-cloned repo to my computer.
+Improved layout of log.md <sub>(this file)</sub> and [README.md](https://github.com/LThoms-GHub/iWBWiWB/blob/main/README.md).\
+First [pull request](https://github.com/LThoms-GHub/iWBWiWB/pull/1) and merge of repo. 
+Added [test.md](https://github.com/LThoms-GHub/iWBWiWB/blob/main/test.md).\
+Cloned repo to my computer.
