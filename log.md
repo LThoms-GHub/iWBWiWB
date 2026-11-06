@@ -32,11 +32,11 @@ Revised python.
 Went over the Bash manual.
 
 ### day 9
-Cloned the repo to my computer and made some files with vs code.\
+Cloned the repo to my computer and made some files with vs code.
 
 ### day 10
-Bash + C.\
+Bash + C.
 
 ### day 11
-Python built-ins and bash.\
+Python built-ins and bash.
 
