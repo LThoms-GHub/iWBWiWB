@@ -40,3 +40,5 @@ Bash + C.
 ### day 11
 Python built-ins and bash.
 
+### day 12-16
+Haven't been able to do much. needed to do some other work before coming back to the project.
